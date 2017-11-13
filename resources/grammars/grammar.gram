@@ -1,0 +1,13 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <word1> = ( haala | baabaa | baakii | hala | ghara |  janataa | kalama | khaana | naama | hajura | jaagiira | juuna | kaala | kaama |kadama | khaalii | khaana | laga | maalaa | matalaba | naarii | pulisa | puraanaa | raajaa | samaya | mahaana);
+
+public <words2> = ( oo | pa |ja | ka | kha | gha | na  );
+
+public <words3> = ( dukha | garbha |garamii | haara | yaada | duniyaa);
